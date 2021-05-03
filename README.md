@@ -1,11 +1,5 @@
 # Predicting container's Dwell Time
 
-The following work has been made in Python using Jupyter Notebooks. The folliwing files are present in the Github of this project :
-- Report.pdf is the PDF report that has been handed in for this task
-- TempsStationnement.ipynb is the notebook I have worked on
-- the models folder contains trained models I exported
-- the images folder contains images used in the report
-
 ## Context
 
 More than 80% of the goods consumed worldwide are transported in containers. The invention of the container is no less than the greatest revolution in our modern society since Internet. It is the basis of the modern supply chain and the globalization that has taken place over the last 30 years.
